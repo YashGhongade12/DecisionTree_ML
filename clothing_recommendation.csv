@@ -1,0 +1,11 @@
+Temperature,Humidity,Wind_Speed,Rain_Chance,Clothing
+30,40,10,0,T-Shirt
+22,60,12,20,Shirt
+10,85,20,70,Jacket
+5,90,25,90,Raincoat
+18,55,8,10,Sweater
+35,30,6,0,T-Shirt
+15,70,18,50,Sweater
+8,88,22,80,Raincoat
+25,45,11,5,T-Shirt
+28,50,10,15,Shirt
